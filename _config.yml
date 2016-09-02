@@ -1,20 +1,4 @@
-name: Astonish
-favicon: null
-layout_spectrum: 0.23836
 typography_spectrum: 0.38568
-title: Astonish Systems
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.4721774666104466
   saturation: 0.1556363662239164
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23836
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Astonish
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Astonish Systems
+description: Astonish Email
 purpose: []
